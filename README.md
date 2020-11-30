@@ -1,2 +1,3 @@
 # connect
-mini web framework written completely in TypeScript
+
+A mini web framework written completely in TypeScript. Uses `parcel-bundler`.
